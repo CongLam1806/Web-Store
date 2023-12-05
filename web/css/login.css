@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 15, 2023, 11:54:22 PM
+    Author     : Trần Công Lâm
+*/
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 13, 2023, 1:46:21 PM
+    Author     : Trần Công Lâm
+*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;800&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+body {
+    background-image: url(../img/BG.avif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+form {
+    display: flex;
+    width: 350px;
+    flex-direction: column;
+    border-radius: 12px;
+    padding: 12px 24px 25px 24px;
+    background-color: white;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title {
+    margin-top: 10px;
+    text-align: center;
+    
+}
+
+.head {
+    margin: 5px 0px;
+}
+
+input {
+    border-color: black;
+    /*margin-top: 50px;*/
+    padding: 10px 10px;
+    font-size: 15px;
+}
+.submit {
+    margin-top: 25px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.note {
+    margin-top: 10px;
+}
+

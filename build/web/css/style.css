@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 15, 2023, 11:52:42 PM
+    Author     : Trần Công Lâm
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;800&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 50px auto 0 auto;
+    text-align: center;
+    
+}
